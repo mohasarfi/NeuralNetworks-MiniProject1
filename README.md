@@ -1,6 +1,6 @@
 # NeuralNetworks-MiniProject1
 First mini project of the Neural Networks and Deep Learning course instructed by Dr.Kalhor,School of Electrical and Computer Engineering, University of Tehran\
-Following Topics have been covered in this project\
+Following Topics have been covered in this project
 * Question1 : CNN for image classification\
   A convolutional  neural network is developed for the purpose of image classification. To reach this goal convolutional layers have been used for feature extraction along with Batch-Normalization and Drop out layers in order to prevent overfitting. CIFAR10 dataset is used for this question \
   The final best accuracy on the test dataset is : 0.874
